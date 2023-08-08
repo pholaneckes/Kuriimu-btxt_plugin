@@ -1,0 +1,14 @@
+S:\Source\Repos2\Kuriimu-master\src\Kuriimu\bin\Debug\plugins\text_btxt.dll.config
+S:\Source\Repos2\Kuriimu-master\src\Kuriimu\bin\Debug\plugins\text_btxt.dll
+S:\Source\Repos2\Kuriimu-master\src\Kuriimu\bin\Debug\plugins\text_btxt.pdb
+S:\Source\Repos2\Kuriimu-master\src\text\text_btxt\obj\Debug\text_btxt.csproj.AssemblyReference.cache
+S:\Source\Repos2\Kuriimu-master\src\text\text_btxt\obj\Debug\text_btxt.csproj.CoreCompileInputs.cache
+S:\Source\Repos2\Kuriimu-master\src\text\text_btxt\obj\Debug\text_btxt.dll
+S:\Source\Repos2\Kuriimu-master\src\text\text_btxt\obj\Debug\text_btxt.pdb
+S:\Repos2\Kuriimu-master\src\Kuriimu\bin\Debug\plugins\text_btxt.dll.config
+S:\Repos2\Kuriimu-master\src\Kuriimu\bin\Debug\plugins\text_btxt.dll
+S:\Repos2\Kuriimu-master\src\Kuriimu\bin\Debug\plugins\text_btxt.pdb
+S:\Repos2\Kuriimu-master\src\text\text_btxt\obj\Debug\text_btxt.csproj.AssemblyReference.cache
+S:\Repos2\Kuriimu-master\src\text\text_btxt\obj\Debug\text_btxt.csproj.CoreCompileInputs.cache
+S:\Repos2\Kuriimu-master\src\text\text_btxt\obj\Debug\text_btxt.dll
+S:\Repos2\Kuriimu-master\src\text\text_btxt\obj\Debug\text_btxt.pdb
