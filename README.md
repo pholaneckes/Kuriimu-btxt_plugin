@@ -1,4 +1,4 @@
-# Kuriimu
+# Kuriimu 1
 ![Logo](https://github.com/IcySon55/Kuriimu/blob/master/src/Kuriimu/images/btn-editor.png)
 
 It's a general purpose game translation toolkit for authors of fan translations.
